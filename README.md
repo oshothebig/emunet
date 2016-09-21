@@ -1,2 +1,2 @@
-# swsw
-Switch emulator
+# Emunet
+Network emulator
